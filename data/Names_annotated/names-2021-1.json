@@ -1,0 +1,135 @@
+{
+  "K7AntiVirus": {
+    "open_source": "1 closed",
+    "years": [
+      2008,
+      2021
+    ]
+  },
+  "Cisco products": {
+    "open_source": "2 closed",
+    "years": [
+      2008,
+      2005,
+      2021
+    ]
+  },
+  "MDaemon": {
+    "open_source": "3 closed",
+    "years": [
+      2021,
+      2022,
+      2000,
+      2001,
+      2005,
+      2006,
+      2007,
+      2008
+    ]
+  },
+  "Maian Cart": {
+    "open_source": "4 open",
+    "years": [
+      2008,
+      2021
+    ]
+  },
+  "phpCMS": {
+    "open_source": "5 open",
+    "years": [
+      2021,
+      2004,
+      2005,
+      2006,
+      2008
+    ]
+  },
+  "Trend Micro HouseCall": {
+    "open_source": "closed",
+    "years": [
+      2008,
+      2003,
+      2021,
+      2022
+    ]
+  },
+  "Exchange Server": {
+    "open_source": "closed",
+    "years": [
+      2021,
+      2003,
+      2005,
+      2007,
+      2008
+    ]
+  },
+  "Folder Lock": {
+    "open_source": "closed",
+    "years": [
+      2008,
+      2021
+    ]
+  },
+  "Papoo": {
+    "open_source": "open",
+    "years": [
+      2021,
+      2005,
+      2006,
+      2007,
+      2008
+    ]
+  },
+  "Pluck CMS": {
+    "open_source": "open",
+    "years": [
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2008
+    ]
+  },
+  "FlashGet": {
+    "open_source": "1 closed",
+    "years": [
+      2008,
+      2021
+    ]
+  },
+  "KEPServerEX": {
+    "open_source": "2 closed",
+    "years": [
+      2021,
+      2013,
+      2023
+    ]
+  },
+  "Ghost": {
+    "open_source": "3 open",
+    "years": [
+      2001,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  "rcp": {
+    "open_source": "4 open",
+    "years": [
+      2021,
+      1999,
+      2001,
+      2005,
+      2007
+    ]
+  },
+  "System Manager": {
+    "open_source": "5 unknown",
+    "years": [
+      2001,
+      2021
+    ]
+  }
+}
